@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Kristof Hamrick
+jobTitle: Senior Sales Leader
+location: San Francisco, CA US
 profileImage:
   src: /img/default-profile-male.png
   alt: Client's headshot
-siteUrl: https://url.com
+siteUrl: https://www.kristofhamrick.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
-    url: https://www.facebook.com
+    url: https://www.facebook.com/kris.hamrick.1
     label: Visit
     show: true
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/kris-hamrick/
     label: Visit
     show: true
   pinterest:
