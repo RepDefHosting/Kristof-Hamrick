@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Kristof Hamrick
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -12,12 +12,13 @@ learnMoreButton:
 subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
-  src: /img/naturehero.png
+  src: /img/businesshero1.png
   alt: Hero Image for home page
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: A strategic account manager at Cohere, Kristof Hamrick is an
+  experienced senior sales leader with a proven track record of managing sales
+  teams and driving revenue growth for major tech companies.
 published: true
 profileButton:
   link: /profile
@@ -32,4 +33,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+A strategic account manager at Cohere, Kristof Hamrick is an experienced senior sales leader with a proven track record of managing sales teams and driving revenue growth for major tech companies. Kristof Hamrick is skilled at creating lasting relationships with stakeholders and partners, leading sales teams, and implementing successful sales strategies.
