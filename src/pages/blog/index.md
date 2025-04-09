@@ -3,9 +3,9 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: Kristof Hamrick’s most recent leadership roles include
+  enterprise account executive at Amazon Web Services and North American sales
+  manager for Watson Marketing and Commerce at IBM.
 published: true
 schemaType: WebPage
 header: Blog
